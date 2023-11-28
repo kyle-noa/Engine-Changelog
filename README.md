@@ -11,6 +11,21 @@ These updates are posted into a package within a development place and then post
 ```md
 # engine v0.5.5-alpha [11/28/23]
 --------------------------
++ Track command
++ Added new vehicles
+
+* Spawning vehicle now goes through the "spawn" command rather then using insert
+* Fixed issue where the christmas vest is inverted
+* Changed HQ Office layout
+* Changed 1CAV Tank ICVC to the right company
+* Changed AFA Acces level + Admin Level
+
+- Non USAR related shirts ( Chef, etc...)
+```
+
+```md
+# engine v0.5.5-alpha [11/28/23]
+--------------------------
 + Added SCAR-H ( Limited Time Available )
 + Added Christmas sweaters and vests
 + Added Christmas environment
