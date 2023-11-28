@@ -9,6 +9,26 @@ These updates are posted into a package within a development place and then post
 ## Changelog
 
 ```md
+# engine v0.5.5-alpha [11/28/23]
+--------------------------
++ Added SCAR-H ( Limited Time Available )
++ Added Christmas sweaters and vests
++ Added Christmas environment
++ Added 1CAV Tank ICVC
++ Added CID OCP
++ Added CID ACS OCP
+
+* Fixed issue with 1CAV Flight ICVC showing up as 101st ICVC
+* Fixed issue with Gear previews not loading in the locker
+* Changed Access levels + Admin Levels
+* Fixed issue where BCT Clothing would show up as summer outfit rather then winter
+* Fixed issue where Raiding red indicator wouldn't disappear after the raider has left / appear
+
+
+- 1AD Tank ICVC
+```
+
+```md
 # engine v0.5.4-alpha [11/21/23]
 --------------------------
 + Added events panel
