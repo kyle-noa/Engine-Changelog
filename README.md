@@ -26,6 +26,10 @@ These updates are posted into a package within a development place and then post
 * Fixed issue where 
 * Fixed issue where warrant tags wouldn't show up
 * Fixed issue where the lightning of security cameras would stay after exiting
+
+- Removed certain non-army shirts due them not being owned by us
+- Removed Vehicle spawning through admin
+- Removed 10 seconds CD before reset in pav area for raiders
 ```
 
 ```md
