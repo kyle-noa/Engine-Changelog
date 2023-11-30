@@ -2,11 +2,31 @@
 These updates are posted into a package within a development place and then posted to all games USAR actively uses. The files are configured so that some things will be disabled in a given place but enabled in others which allows us to post a singular code base to multiple games at the same time. These logs will show what is being changed and the date the update went through as well as patch notes or hotfixes that went along with that given update.
 
 ## Game Versions
-`Fort Jackson - v0.5.4`
+`Fort Jackson - v0.5.6`
 `Parade Grounds - v0.5.3`
 `Rosegarden Hall - v0.5.3`
 
 ## Changelog
+
+```md
+# engine v0.5.6-alpha [12/28/23]
+--------------------------
++ Track Command Update
++ NVG for helicopters
++ IR for helicopters ( detects all vehicles )
++ MPC Warrant System
++ Warrant Commands
++ Full Pav lock for CIV, Raiders, and BCT ( instant respawn )
++ CID/QMC/AFA Offices
+
+* Game would break after running certain commands due to an raider beam issue
+* Fixed issue where warrant tags wouldn't dissapear after arresting someone
+* Fixed issue where the warrant arrest would put the reason as N/A
+* Fixed issue where the NVG/IR would not disable after jumping out of the pilot seat
+* Fixed issue where 
+* Fixed issue where warrant tags wouldn't show up
+* Fixed issue where the lightning of security cameras would stay after exiting
+```
 
 ```md
 # engine v0.5.5-alpha [11/28/23]
