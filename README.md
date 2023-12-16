@@ -5,11 +5,22 @@ These updates are posted into a package within a development place and then post
 `Fort Jackson - v0.5.6`
 `Parade Grounds - v0.5.3`
 `Rosegarden Hall - v0.5.3`
+`Game Demo V2 - v0.1.0`
 
 ## Changelog
 
 ```md
-# engine v0.5.6-alpha [12/28/23]
+# engine v0.1.0 [12/16/23] [ Game Demo V2 ]
+--------------------------
++ Enabled private servers
++ Added Beta tank system
+
+* Helicopter whitelists are now disabled
+* Admin level increases
+
+- Removed main menu
+
+# engine v0.5.6-alpha [11/28/23]
 --------------------------
 + Track Command Update
 + NVG for helicopters
