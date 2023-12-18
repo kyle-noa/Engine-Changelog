@@ -10,6 +10,23 @@ These updates are posted into a package within a development place and then post
 ## Changelog
 
 ```md
+# engine v0.5.7-alpha [12/18/23]
++ Added all vehicles to spawn command
++ 1CAV ACS OCP
+
+* Fixed issue where parachutes wouldn't unequip if you unequiped them while sitting causing you able to move upwards while skydiving
+* Fixed issue where parachutes wouldn't release when interaction was held on mobile
+* Fixed issue where the automatic warrant reason staid while arresting a person with no warrant
+* Fixed issue where players were able to walk while being detained
+* Fixed issue where players were able to get into MPC HQ by going through the window seat
+* Fixed floating objects
+* Fixed window collisions
+
+- Removed invisible barriers at exchange classrooms and lockers
+- Removed insert command
+```
+
+```md
 # engine v0.1.0 [12/16/23] [ Game Demo V2 ]
 --------------------------
 + Enabled private servers
