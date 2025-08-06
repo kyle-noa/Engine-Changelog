@@ -6,7 +6,7 @@ Updates of mod system :)
 `Beta - v0.0.1`
 
 ## Game Version
-'https://www.roblox.com/games/134710973652707/Heli-Weapons-Testing' '-' 'Beta - V0.0.0'
+https://www.roblox.com/games/134710973652707/Heli-Weapons-Testing - Beta - V0.0.0
 
 ## Changelog
 
