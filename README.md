@@ -1,9 +1,12 @@
 # Heli Engine Changelog
 Updates of mod system :)
-https://www.roblox.com/games/134710973652707/Heli-Weapons-Testing
+
 
 ## Mod Versions
 `Beta - v0.0.1`
+
+## Game Version
+'https://www.roblox.com/games/134710973652707/Heli-Weapons-Testing' '-' 'Beta - V0.0.0'
 
 ## Changelog
 
@@ -32,5 +35,14 @@ Currently working on:
 - Damage to helicopters both group and non group.
 - Gunners on helicopters
 - Target tracking camera
+- 
+```
+
+```md
+# engine v0.0.0-alpha [6/1/25]
++ Added Missiles with target locking (heat-seeking and radar).
++ Added weapon damage to humanoids.
++ Unguided rockets with explosive impact.
++ Cannons with high fire rate.
 - 
 ```
