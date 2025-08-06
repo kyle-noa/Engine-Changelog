@@ -8,14 +8,28 @@ Updates of mod system :)
 
 ```md
 # engine v0.0.1-alpha [6/8/25]
-+ Added auto-rotation on the rotors. Helicopter will not fall down like a rock but instead challange the pilot to smartly use their collective and RPM.
-+ Added Fuel. Config will have maxfuel and FuelEfficiency, the higher the collective and drag the higher the drain of the fuel will be.
-+ Added IR
-+ Added NVG  
-+ Added Missiles + Locking
-+ Added Rockets
-+ Added Cannons
++ Autorotation on rotors. Helicopter no longer drops instantly on engine failure. Pilot must manage collective and rotor RPM to control descent.
++ Added Fuel system with MaxFuel and FuelEfficiency. Fuel drains faster with higher collective and increased drag.
++ Added Infrared (IR) vision.
++ Added Night Vision Goggles (NVG).
++ Added Missiles with target locking (heat-seeking and radar).
++ Added weapon damage to humanoids.
++ Unguided rockets with explosive impact.
++ Cannons with high fire rate.
 
 * Changed lock UI on heat seekers to different UI.
 * Changed lock UI on missiles to different UI.
+
+Currently working on:
+- Flares / countermeasures
+- Camera with HUD, such as on the apache
+- Camera effects when shooting weapons
+- Radar HUD in the heli cockpit and maybe UI
+- Tool for repairing helicopter damage
+- Tool for refuealing helicopters
+- Damage groups on helicopters ( Rotor, Weapons, Engine, etc )
+- Damage to helicopters both group and non group.
+- Gunners on helicopters
+- Target tracking camera
+- 
 ```
