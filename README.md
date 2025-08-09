@@ -18,6 +18,7 @@ https://www.roblox.com/games/134710973652707/Heli-Weapons-Testing - Beta - V0.0.
 + Target tracking camera ( FLIR Camera )
 
 Currently working on:
+- Weapon HUD
 - Flares / countermeasures
 - Radar HUD in the heli cockpit and maybe UI
 - Tool for repairing helicopter damage
