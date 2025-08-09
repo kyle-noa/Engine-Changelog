@@ -3,12 +3,29 @@ Updates of mod system :)
 
 
 ## Mod Versions
-`Beta - v0.0.1`
+`Beta - v0.0.2`
 
 ## Game Version
 https://www.roblox.com/games/134710973652707/Heli-Weapons-Testing - Beta - V0.0.0
 
 ## Changelog
+
+```md
+# engine v0.0.2-alpha [8/9/25]
++ FLIR Camera
++ Camera Recoil for rockets and cannons
++ Gunners on helicopters
++ Target tracking camera ( FLIR Camera )
+
+Currently working on:
+- Flares / countermeasures
+- Radar HUD in the heli cockpit and maybe UI
+- Tool for repairing helicopter damage
+- Tool for refuealing helicopters
+- Damage groups on helicopters ( Rotor, Weapons, Engine, etc )
+- Damage to helicopters both group and non group.
+- Heli Stingers
+```
 
 ```md
 # engine v0.0.1-alpha [6/8/25]
